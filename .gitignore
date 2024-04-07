@@ -1,0 +1,7 @@
+.venv
+__pycache__/
+.vscode
+CodeLlama-7B-GGUF/*
+LaMini-Flan-T5-248M/*
+LaMini-Flan-T5-783/*
+models/*
